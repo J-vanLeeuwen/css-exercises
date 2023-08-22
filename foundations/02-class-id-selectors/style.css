@@ -1,0 +1,9 @@
+body {
+  background-color: #fff;
+}
+
+p {
+  background-color: #pink;
+  color: black; 
+  font-list: Verdana, "DejaVu Sans", sans-serif;
+}
