@@ -2,8 +2,23 @@ body {
   background-color: #fff;
 }
 
-p {
-  background-color: #pink;
-  color: black; 
-  font-list: Verdana, "DejaVu Sans", sans-serif;
+.odd {
+  background-color: pink;
+  color: #000;
+  font-style: Verdana, "DejaVu Sans", sans-serif
+}
+
+#secondline {
+  color: blue;
+  font-size: 36px;
+}
+
+.cool {
+  font-size: 24px;
+}
+
+#fourthline {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
 }
